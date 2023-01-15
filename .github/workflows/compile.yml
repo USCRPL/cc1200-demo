@@ -2,8 +2,7 @@
 
 name: Test that this Mbed project compiles
 
-# Change this to "on: push" to run the workflow on every commit instead of when a PR is submitted.
-on: pull_request
+on: push
 
 jobs:
   compile:
