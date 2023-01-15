@@ -1,5 +1,5 @@
 # CC1200 Demo Project
-This project does some basic radio sending and receiving using the CC1200 driver and Mbed OS Community Edition.  Use it as an example or a starting place for your own projects!
+This project does some basic radio sending and receiving using the [CC1200 driver](https://github.com/mbed-ce/cc1200-driver) and Mbed OS Community Edition.  Use it as an example or a starting place for your own projects!
 
 Two demos are included with this project: 
 - CC1200Demo shows how to configure the radios and send data between them.  This demo uses several sets of configuration settings (symbol rate, filter bandwidth, etc) taken from TI's SmartRF application, since these combinations are known to work well.
