@@ -1,0 +1,7 @@
+[submodule "mbed-os"]
+	path = mbed-os
+	url = https://github.com/mbed-ce/mbed-os.git
+	shallow = true
+[submodule "cc1200-driver"]
+	path = cc1200-driver
+	url = https://github.com/mbed-ce/cc1200-driver.git
